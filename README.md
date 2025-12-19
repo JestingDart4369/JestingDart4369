@@ -1,4 +1,5 @@
 # 💫 About Me:
+🐍 Python & ♯ C# developer — 🎓 IMS Baden student building CLI tools, automation scripts, and API projects
 I like Elephants🐘
 
 
